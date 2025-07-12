@@ -1,0 +1,1 @@
+This app will contain all the emergency contact numbers in one place, and even an option to add personal numbers.
